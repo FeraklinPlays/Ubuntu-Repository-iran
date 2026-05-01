@@ -2,7 +2,7 @@
 echo "Hossein.IT Repository ubuntu Auto"
 set -e
 
-UBUNTU_CODENAME="jammy"
+UBUNTU_CODENAME="noble"
 
 MIRRORS=(
   "http://mirror.arvancloud.ir/ubuntu"
